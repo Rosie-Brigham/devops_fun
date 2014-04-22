@@ -1,7 +1,8 @@
 lock '3.1.0'
 
 set :application, 'codecraft-lab'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'git@github.com:Rosie-Brigham/devops_fun.git'
+set :deploy_to, '/usr/src/codecraft-lab'
 
 namespace :deploy do
 

@@ -1,5 +1,1 @@
-role :app, %w{deploy@example.com}
-role :web, %w{deploy@example.com}
-role :db,  %w{deploy@example.com}
-
-server 'example.com', user: 'deploy', roles: %w{web app}
+server '188.226.197.184', user: 'root', roles: %w{web app}

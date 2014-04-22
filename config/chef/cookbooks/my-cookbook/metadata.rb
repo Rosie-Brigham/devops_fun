@@ -1,5 +1,5 @@
 name 'my-cookbook'
-maintainer 'some dude'
+maintainer 'epic person is epic'
 maintainer_email 'some.dude@example.com
 license 'All rights reserved'
 description 'Blah'
